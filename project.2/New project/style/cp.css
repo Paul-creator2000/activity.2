@@ -21,3 +21,16 @@
 #main-body {
   background-color: gainsboro;
 }
+
+.form-group {
+  padding-bottom: 12px;
+}
+
+.l1 {
+  display: table-caption;
+  list-style: circle;
+}
+
+input {
+  width: fit-content;
+}
