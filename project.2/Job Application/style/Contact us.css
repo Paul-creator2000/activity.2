@@ -1,0 +1,19 @@
+#main-heading {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    padding-top: 15px;
+    margin: 5px;
+    word-spacing: 5px;
+    font-family: monospace;
+    font-size: xx-large;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    word-spacing: 3px;
+    letter-spacing: 2.5px;
+}
